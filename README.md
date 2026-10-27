@@ -12,3 +12,4 @@ The dataset contains data related to the Eastern Mediterranean Route (EMR) and W
 Source of data which are in the datasets are official data from - DTM Europe from national authorities: Albania, Bosnia and Hercegovina, Croatia, Romania, North Macedonia, Montenegro, Kosovo, Slovenia, Serbia.
 wich have 9 but I will fokus on 5 main sheets
 This datasets have 9 sheets: 'About','Summary','First_Arrival_Countries_Monthly','Other_Countries_Areas_Monthly','First_Arrival_Countries_CoO','Others_Countries_CoO','All_Migrant_Presence','Sources','ISO3'. My fokus will be on 5 sheets: 'First_Arrival_Countries_Monthly','Other_Countries_Areas_Monthly','First_Arrival_Countries_CoO','Others_Countries_CoO','All_Migrant_Presence', which I will investigate and analyze in detail in order to see what and how to implement in order to answer my Data question - Predict the number of migrants who could potentially come to Europe - Montenegro in the coming period.
+
