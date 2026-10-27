@@ -15,7 +15,7 @@ This datasets have 9 sheets: 'About','Summary','First_Arrival_Countries_Monthly'
 
 **Data type** is text / numerical.
 
-**DS problem** because I want to make prediction of illegal migration arrivals I am going to use Regression.
+**DS problem** is Regression, because I want to make prediction of illegal migration arrivals in the EU / Montenegro.
 
 **The Problem at Hand**
 
