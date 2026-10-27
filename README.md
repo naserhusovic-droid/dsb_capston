@@ -5,3 +5,8 @@ This project provides a comprehensive data science approach to understanding irr
 2)Europe — Mixed Migration Flows to Europe, Quarterly Overview (January - March 2026)
 The project builds an end-to-end data pipeline. 
 The workflow encompasses data ingestion, exploratory data analysis (EDA) using Pandas, Seaborn, and Matplotlib, and predictive modeling. 
+
+**DataSets 1 = im1**
+I downloaded the dataset from the official UN International Organization for Migration (IOM) website - link: https://dtm.iom.int/global-overview-of-migration-routes-portal/eastern-mediterranean-and-western-balkans.
+The dataset contains data related to the Eastern Mediterranean Route (EMR) and Western Balkan (WBR) - encompasses land and sea migration flows to Greece, Cyprus, and Bulgaria, predominantly departing from Türkiye, with Libya emerging more recently as a key departure point. Past trends also show migrants departing to a lesser extent from Lebanon and the Syrian Arab Republic (hereafter Syria). This route is primarily travelled by people from Afghanistan, Sudan, Egypt, Bangladesh, Syria, Iraq, Somalia, Yemen and Eritrea fleeing wars, political instability, economic hardship, and restrictive asylum policies in neighbouring countries.
+Source of data which are in the datasets are official data from - DTM Europe from national authorities: Albania, Bosnia and Hercegovina, Croatia, Romania, North Macedonia, Montenegro, Kosovo, Slovenia, Serbia.
