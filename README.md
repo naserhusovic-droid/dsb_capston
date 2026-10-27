@@ -13,3 +13,21 @@ Source of data which are in the datasets are official data from - DTM Europe fro
 wich have 9 but I will fokus on 5 main sheets
 This datasets have 9 sheets: 'About','Summary','First_Arrival_Countries_Monthly','Other_Countries_Areas_Monthly','First_Arrival_Countries_CoO','Others_Countries_CoO','All_Migrant_Presence','Sources','ISO3'. My fokus will be on 5 sheets: 'First_Arrival_Countries_Monthly','Other_Countries_Areas_Monthly','First_Arrival_Countries_CoO','Others_Countries_CoO','All_Migrant_Presence', which I will investigate and analyze in detail in order to see what and how to implement in order to answer my Data question - Predict the number of migrants who could potentially come to Europe - Montenegro in the coming period.
 
+
+**The Problem at Hand**
+
+Unregulated mixed migration flows through the Western Balkan route pose critical security, humanitarian and border management challenges. In Q1 2026, despite a 38% drop in overall regional arrivals, security risks escalated. Smugglers used deadlier tactics, causing over 990 Mediterranean fatalities. Montenegro faces high transit pressure, primarily handling vulnerable sudden influxes from conflict zones like Sudan (71% of local arrivals) and Egypt.
+
+**The Solution**
+
+A data-driven monitoring repository that structures and visualizes IOM Displacement Tracking Matrix (DTM) intelligence. This project processes raw transit data from key Montenegrin checkpoints (such as Božaj, Rožaje, and Pljevlja). By automating trends analysis and demographic profiling, it provides actionable insights into migrant routes security challenges, immediate humanitarian needs, and shifting nationalities.
+
+**Potential Impact**
+
+• Optimized resource allocation and faster security and humanitarian response at Montenegrin reception centers.
+• Predictive tracking of shifting migrant patterns across the broader Western Balkan route.
+
+**Where am I now**
+
+So far I have downloaded data sets, checked source validation, and through data manipulation and EDA familiarized myself with the data.
+I plotted some data, in order to see the trends and now I am trying to concretize my activities on the conception of concrete actions syntax that would help me to get the answer to my DataScience question.
